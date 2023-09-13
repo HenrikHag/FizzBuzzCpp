@@ -1,0 +1,2 @@
+- Add random time delay on response  
+- Add game-stop if time delay passes some limit  
